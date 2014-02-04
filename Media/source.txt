@@ -1,0 +1,50 @@
+actions.7z
+http://opengameart.org/content/action-sounds
+
+ambient.ogg
+http://opengameart.org/content/rat-sewer-0
+
+brick_wall.tga
+http://opengameart.org/content/grey-brick-wall-2
+
+brick_textures.zip
+http://opengameart.org/content/brick-wall-textures
+
+dark_stone_tile.tga
+http://opengameart.org/content/dark-stone-tile
+
+floor_metal_plate.tga
+http://opengameart.org/content/metal-plate-grey-dirtiest
+
+floor_quake.xcf.gz
+http://opengameart.org/content/dirty-quake-ish-floor-tiles
+
+gray_stone_tile.png
+http://opengameart.org/content/even-grey-stone-tile-floor-256px
+
+icon.zip, icon.ico (heavy_destruction.ico)
+http://openiconlibrary.sourceforge.net/gallery2/?./Symbols/aem-warning_symbols/pictograms-aem-0066r-wear_head_protection-hard_hat.png
+
+impactfall1.zip (jump_fall.wav)
+http://opengameart.org/content/impactfall1
+
+jump.zip (jump_start.wav)
+http://opengameart.org/content/sfxjump
+
+jute-dh-steps.7z
+http://opengameart.org/content/steps-on-stone-water-snow-wood-and-dirt
+
+ledge2.zip (shatter.wav)
+http://opengameart.org/content/ledge2
+
+nutfall.zip
+http://opengameart.org/content/nutfall
+
+shots.7z
+http://opengameart.org/content/chaingun-pistol-rifle-shotgun-shots
+
+slightscreams.7z
+http://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds
+
+seamless_stone_wall2bis.png
+http://opengameart.org/content/seamless-stone-wall-texture
